@@ -2,4 +2,6 @@
 
 config.DiscordAPIToken = 'ENTERYOURIDHERE';
 
+config.commandIndicator = '!';
+
 module.exports = config;
